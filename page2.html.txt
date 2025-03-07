@@ -1,0 +1,20 @@
+
+<!DOCTYPE html>
+<html lang="kk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Құттықтау</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Сіздерді 8 Наурыз мерекесімен құттықтаймыз!</h1>
+        <p>Әр күніңіз қуаныш пен бақытқа толы болсын! Сіздерге тек жақсылық тілейміз!</p>
+
+        <div class="video-container">
+            <iframe width="560" height="315" src="https://youtu.be/1zQ4q3H8Kq0?si=mlVGgn96CguHSSjX" frameborder="0" allowfullscreen></iframe>
+        </div>
+    </div>
+</body>
+</html>
